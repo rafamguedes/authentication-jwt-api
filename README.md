@@ -1,4 +1,4 @@
-# API Spring Security - JWT
+# Authentication API JWT
 
 API REST em Java com Spring Boot, Spring Security, autenticação com JWT, envio de e-mails e recuperação de senha.
 
